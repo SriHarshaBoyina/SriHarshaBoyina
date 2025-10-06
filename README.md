@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [harshaboyina.netlify.app](harshaboyina.netlify.app)
+- 👨‍💻 All of my projects are available at [MY Portfolio](harshaboyina.netlify.app)
 
 - 💬 Ask me about **Artificial Intelligence, Machine Learning**
 
 - 📫 How to reach me **boyinasriharsha20@gmail.com**
 
-- 📄 Know about my experiences (file:///C:/Users/boyin/OneDrive%20-%20BENNETT%20UNIVERSITY/Desktop/My%20Resume.pdf)
+- 📄 Know about my experiences [My Resume](file:///C:/Users/boyin/OneDrive%20-%20BENNETT%20UNIVERSITY/Desktop/My%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
