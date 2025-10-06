@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriharshaboyina&label=Profile%20views&color=0e75b6&style=flat" alt="sriharshaboyina" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriharshaboyina" alt="sriharshaboyina" /></a> </p>
+
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **boyinasriharsha20@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/boyin/OneDrive%20-%20BENNETT%20UNIVERSITY/Desktop/My%20Resume.pdf](file:///C:/Users/boyin/OneDrive%20-%20BENNETT%20UNIVERSITY/Desktop/My%20Resume.pdf)
+- 📄 Know about my experiences (file:///C:/Users/boyin/OneDrive%20-%20BENNETT%20UNIVERSITY/Desktop/My%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
