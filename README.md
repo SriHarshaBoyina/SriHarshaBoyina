@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **boyinasriharsha20@gmail.com**
 
-- 📄 Know about my experiences [My Resume](file:///C:/Users/boyin/OneDrive%20-%20BENNETT%20UNIVERSITY/Desktop/My%20Resume.pdf)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1e7AlEuefXwR2_K4jSEa7OvifjOWBw9Nq/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
