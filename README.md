@@ -8,6 +8,8 @@
   <img src="https://raw.githubusercontent.com/harshaboyina/harshaboyina/main/assets/coding.gif" width="400"/>
 </p>
 
+![Visitor Badge](https://komarev.com/ghpvc/?username=SriHarshaBoyina&style=flat-square)
+
 # 👋 Hi, I'm *Sri Harsha Boyina*
 ### Software Developer | Innovator | Tech Enthusiast
 
