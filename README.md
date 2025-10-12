@@ -1,31 +1,70 @@
-<h1 align="center">Hi 👋, I'm Sri Harsha Boyina</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<!-- Animated Coding Banner (SVG) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=5F8AC3&center=true&vCenter=true&width=700&lines=Hi+I'm+Sri+Harsha+Boyina;Software+Developer+%7C+C%2B%2B%2C+Python%2C+JS;I+create+smart+solutions+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sriharshaboyina&label=Profile%20views&color=0e75b6&style=flat" alt="sriharshaboyina" /> </p>
+<!-- Coding Animation GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshaboyina/harshaboyina/main/assets/coding.gif" width="400"/>
+</p>
 
+# 👋 Hi, I'm *Sri Harsha Boyina*
+### Software Developer | Innovator | Tech Enthusiast
 
+Welcome to my GitHub profile! I love building creative solutions in *C++, **Python, **JavaScript, **HTML, and **CSS*.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+---
+
+- 🌱 I’m currently learning *Data Structures and Algorithms*
 
 - 👨‍💻 All of my projects are available at [MY Portfolio](harshaboyina.netlify.app)
 
-- 💬 Ask me about **Artificial Intelligence, Machine Learning**
+- 💬 Ask me about *Artificial Intelligence, Machine Learning*
 
-- 📫 How to reach me **boyinasriharsha20@gmail.com**
+- 📫 How to reach me *boyinasriharsha20@gmail.com*
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1e7AlEuefXwR2_K4jSEa7OvifjOWBw9Nq/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sri-harsha-boyina-9857592b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sri-harsha-boyina-9857592b2/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sriharsha__boyina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sriharsha__boyina/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sriharshaboyina1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sriharshaboyina1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sri_harsha07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sri_harsha07/" height="30" width="40" /></a>
+
+
+## 🚀 Skills & Tools
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+
+
+## 🏆 Projects
+
+### [🛌 Drowsiness Detection](https://github.com/harshaboyina/drowsiness-detection)
+> A smart system to prevent accidents by detecting driver drowsiness in real-time.
+
+### [📡 Real-Time Device Tracker](https://github.com/harshaboyina/real-time-device-tracker)
+> Track devices in real-time with interactive dashboards and live maps.
+
+---
+
+## 📊 GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriHarshaBoyina&theme=tokyonight" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SriHarshaBoyina&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriharshaboyina&show_icons=true&locale=en&layout=compact" alt="sriharshaboyina" /></p>
+## 🌐 Connect with Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriharshaboyina&show_icons=true&locale=en" alt="sriharshaboyina" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-harsha-boyina-9857592b2/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=web&logoColor=white)](https://harshaboyina.netlify.app)
+
+---
+
+> “Let’s build the future, one line of code at a time!”
