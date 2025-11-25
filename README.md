@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I love building creative solutions in *C++, **Pyth
 
 - 📫 How to reach me *boyinasriharsha20@gmail.com*
 
-- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/1e7AlEuefXwR2_K4jSEa7OvifjOWBw9Nq/view?usp=drive_link](https://drive.google.com/file/d/1M_Diiu46-M3DL9cznktJQR3_6f2YJ78d/view?usp=drive_link))
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1M_Diiu46-M3DL9cznktJQR3_6f2YJ78d/view?usp=drive_link)
 
 
 
