@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I love building creative solutions in *C++, **Pyth
 
 - 🌱 I’m currently learning *Data Structures and Algorithms*
 
-- 👨‍💻 All of my projects are available at [MY Portfolio](harshaboyina.netlify.app)
+- 👨‍💻 All of my projects are available at [MY Portfolio](https://harshaboyina.netlify.app)
 
 - 💬 Ask me about *Artificial Intelligence, Machine Learning*
 
