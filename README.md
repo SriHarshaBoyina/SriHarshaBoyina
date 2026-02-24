@@ -61,6 +61,12 @@ Welcome to my GitHub profile! I love building creative solutions in *C++, **Pyth
 
 ---
 
+## LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sri_Harsha07?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Flash Card with Heatmap" />
+</p>
+
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
